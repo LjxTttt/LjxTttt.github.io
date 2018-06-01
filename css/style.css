@@ -201,7 +201,7 @@ a:hover, a:active {
 }
 .sidebar .logo-title .title a {
   text-decoration: none;
-  color: #464646;
+  color: #f2f2f2;
   font-size: 2rem;
   font-weight: bold;
 }
@@ -255,7 +255,7 @@ a:hover, a:active {
 .post .post-title a {
   text-decoration: none;
   letter-spacing: 1px;
-  color: #5f5f5f;
+  color: #FFF;
 }
 .post .post-title a:hover {
   text-decoration: underline;
