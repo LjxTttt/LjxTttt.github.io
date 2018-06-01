@@ -136,7 +136,7 @@ a:hover, a:active {
   list-style: none;
   padding: 18px 30px;
   float: left;
-  font-size: 12px;
+  font-size: 14px;
 }
 .page-top .nav li {
   position: relative;
@@ -150,9 +150,9 @@ a:hover, a:active {
   color: #4786D6;
 }
 .page-top .nav a.current {
-  color: #5A5A5A;
+  color: #ced1c6;
   padding-bottom: 22px;
-  border-bottom: 1px solid #5A5A5A;
+  border-bottom: 1px solid #c4e2e0;
 }
 .page-top .information {
   float: right;
