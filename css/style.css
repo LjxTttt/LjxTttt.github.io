@@ -14,10 +14,18 @@ body {
   background-image:url(/images/bg.jpg);
 }
 
-p {
+.description p {
   line-height: 1.9em;
   font-weight: 400;
   font-size: 14px;
+  color:#ccc;
+}
+
+p {
+  line-height: 1.9em;
+  font-weight: 400;
+  font-size: 17px;
+  color:#fff;
 }
 
 a {
