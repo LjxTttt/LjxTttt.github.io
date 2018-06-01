@@ -1,3 +1,8 @@
 $(function(){
-	$("body").css("height",""+$(".content").outerHeight(true)+"px");
+  	var siderbarw = $(".sidebar").outerHeight(true);
+    var content = $(".content").outerHeight(true);
+    if(content>siderbarw){
+    	$("body").css("height",""+content+"px");
+    }
+	
 })
