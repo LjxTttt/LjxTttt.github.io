@@ -1,3 +1,3 @@
 $(function(){
-	alert($(".content").outerHeight(true);)
+	alert($(".content").outerHeight(true));
 })
